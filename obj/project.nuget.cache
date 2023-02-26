@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8iskoto7qxbf4cgyFLc20qIZR4AHiUp+/3Q/pyzjWBgv7TXgb/WgOZlntgQO9AfmKEAP3+rO73+VO3YJ6jO2nw==",
+  "success": true,
+  "projectFilePath": "/Users/daniellegan/Documents/Projects/mslearn-dotnet-crud/mslearn-dotnet-crud.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniellegan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/daniellegan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/daniellegan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/daniellegan/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/daniellegan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/daniellegan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/daniellegan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4dsyr2l5ZW5saTDqmhEEKxZiXoGEqbSKfI6yr19Yqm8=",
+  "Source": "mslearn-dotnet-crud",
+  "BasePath": "_content/mslearn-dotnet-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

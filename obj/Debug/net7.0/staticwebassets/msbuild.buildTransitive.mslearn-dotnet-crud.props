@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/mslearn-dotnet-crud.props" />
+</Project>
